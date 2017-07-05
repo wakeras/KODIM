@@ -1,0 +1,641 @@
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 1[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/1</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 2[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/2</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 3[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/3</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 4[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/4</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 5[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/5</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 6[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/6</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 7[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/7</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 8[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/8</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 9[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/9</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 10[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/10</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 11[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/11</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 12[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/12</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 13[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/13</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 14[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/14</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 15[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/15</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 16[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/16</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 17[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/17</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 18[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/18</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 19[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/19</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Pergilah Air Mata Episod 20[/B][/COLOR]</title>
+<link>$doregex[play]</link>
+<thumbnail>https://1.bp.blogspot.com/-zvgnqoiK_7Q/V4-a8Wpm_SI/AAAAAAAADrQ/HZWrX2BYUQAtFfJhYgVEp8J48DMIliSHgCLcB/s1600/Pergilah%2BAir%2BMata.jpg</thumbnail>
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>http://asp.re/20</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title>Gdrive regex</title>
+<urlsolve>https://drive.google.com/file/d/0B_-t_xzi1iDxTFluNG1GQ3d2cVk/view?usp=sharing</urlsolve>
+<thumbnail>http://s19.postimg.org/xv4uvto8z/upinipin_wall.jpg</thumbnail>
+<fanart>http://s19.postimg.org/gmysa0h6r/upinipin_fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]http://dramanices.com/drama-movies[/B][/COLOR]</title>
+<link>$doregex[makelist]|Cookie=$get_cookies$&amp;Referer=http://dramanices.com/&amp;User-Agent: iPhone</link>
+<thumbnail>http://images.dramacool.to/images/The%20Return%20of%20Superman.jpg<thumbnail> 
+<regex>
+  <name>makelist</name>
+ 
+  <listrepeat><![CDATA[
+        <title>[COLOR lime]http://dramanices.com/drama-movies [/COLOR][COLOR dodgerblue] [makelist.param2][/COLOR]</title>
+        <link>$doregex[makelist1]</link>
+        <thumbnail>http://images.dramacool.to/images/The%20Return%20of%20Superman.jpg<thumbnail>
+]]></listrepeat>
+
+ 
+<expres><![CDATA[href="\/([^"]+)".title="The.Return.of.Superman".class="SUB">\n............................<span.class="icon-play.SUB"></span>\n.*?<span>(.*?)</]]></expres>
+<page>http://dramanices.com/drama/the-return-of-superman-detail</page>
+<referer>http://dramanices.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+ 
+
+<regex>
+        <name>createCFCookie</name>
+        <expres></expres>
+        <page>$pyFunction:cloudflare.createCookie('http://dramanices.com/drama/the-return-of-superman-detail',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')</page>
+        <cookieJar></cookieJar>
+</regex>
+
+<regex>
+  <name>makelist1</name>
+ 
+  <listrepeat><![CDATA[
+        <title>[COLOR lime]The Return of Superman Sub [/COLOR][COLOR dodgerblue] [makelist.param2][/COLOR]</title>
+        <link>$doregex[url]</link>
+        <thumbnail>http://images.dramacool.to/images/The Return of Superman.jpg<thumbnail>
+]]></listrepeat>
+ 
+<expres><![CDATA[<iframe.src="([^"]+)"]]></expres>
+<page>http://dramanices.com/[makelist.param1]</page>
+<referer>http://dramanices.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+ 
+<regex>
+        <name>createCFCookie</name>
+        <expres></expres>
+        <page>$pyFunction:cloudflare.createCookie('http://dramanices.com/drama/the-return-of-superman-detail',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')</page>
+        <cookieJar></cookieJar>
+</regex>
+
+<regex>
+ <name>url</name>
+ <expres><![CDATA[.*<source.src='(.*?)'.type='video\/mp4'.label=['720'|'480'|'360']]]></expres>
+ <page>[makelist1.param1]</page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR red] FullMatches England TEST (streamwatcher2013+wakeras)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR yellow][makelist.param2][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="(.+?)".+?title="(.+?)".+?src="(.+?)".+?]]></expres>
+<page>http://www.fullmatchesandshows.com/premier-league/</page>
+<referer>http://www.fullmatchesandshows.com</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR royalblue][makelist2.param2][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param4]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[id="item(\d).+?title">([^<M]+)<]]></expres>
+<page>[makelist.param1]</page>
+<referer>http://www.fullmatchesandshows.com/premier-league/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import re
+ stream=re.findall('data-config="\/\/([^"]+)"', page_data)[0].replace('zeus.json','abr-non-hd.m3u8')
+ return 'http://' + stream
+]]></expres>
+<page>[makelist.param1][makelist2.param1]/</page>
+<referer>[makelist.param1]</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.fullmatchesandshows.com/wp-content/uploads/2017/01/FMS-logo-n-text-SMALL.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR red] FullMatches England TEST (streamwatcher2013)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR yellow][makelist.param2][/COLOR] [COLOR royalblue]([makelist.param3])[/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param4]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[module_mx4[\w\W\s]*?"(h[^"]+)".+title="(.*?).(?:[&#\d+|–].*?)(F.*?)".*?src="(h.*?)\?]]></expres>
+<page>http://www.fullmatchesandshows.com/premier-league/</page>
+<referer>http://www.fullmatchesandshows.com</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR royalblue][makelist2.param2][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param4]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[id="item(\d).+?title">([^<M]+)<]]></expres>
+<page>[makelist.param1]</page>
+<referer>http://www.fullmatchesandshows.com/premier-league/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import re
+ stream=re.findall('data-config="\/\/([^"]+)"', page_data)[0].replace('zeus.json','abr-non-hd.m3u8')
+ return 'http://' + stream
+]]></expres>
+<page>[makelist.param1][makelist2.param1]/</page>
+<referer>[makelist.param1]</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.fullmatchesandshows.com/wp-content/uploads/2017/01/FMS-logo-n-text-SMALL.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]Running Man,Watch Running Man English Sub[/B][/COLOR]</title>
+<link>$doregex[makelist]|Cookie=$get_cookies$&amp;Referer=http://dramanices.com/&amp;User-Agent: iPhone</link>
+<thumbnail>http://images.dramacool.to/RunningMan.jpg<thumbnail> 
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lime]Running Man,Watch Running Man English Sub [/COLOR][COLOR dodgerblue] ([makelist.param2])[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://images.dramacool.to/RunningMan.jpg<thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/([^"]+)".*\s.*\s.*>(.*?)<]]></expres>
+<page>http://dramanices.com/load-episode.html?id=108&amp;str=running-man</page>
+<referer>http://dramanices.com/drama/running-man-detail</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+ 
+<regex>
+<name>source</name>
+<expres><![CDATA[<iframe.src="([^"]+)"]]></expres>
+<page>http://dramanices.com/[makelist.param1]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+ 
+<regex>
+ <name>url</name>
+ <expres><![CDATA[.*<source.src='(.*?)'.type='video\/mp4'.label=['720'|'480'|'360']]]></expres>
+ <page>$doregex[source]</page>
+</regex>
+
+<regex>
+<name>createCFCookie</name>
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://dramanices.com/drama/running-man-detail',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')</page>
+<cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
+<item>
+<title>[COLOR lime][B]Song Ji Hyo's Beauty View[/B][/COLOR]</title>
+<link>$doregex[makelist]|Cookie=$get_cookies$&amp;Referer=http://dramanices.com/&amp;User-Agent: iPhone</link>
+<thumbnail>http://images.dramacool.to/cover/song-ji-hyos-beauty-view.png<thumbnail> 
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lime]Song Ji Hyo's Beauty View [/COLOR][COLOR dodgerblue] ([makelist.param2])[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://images.dramacool.to/cover/song-ji-hyos-beauty-view.png<thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/([^"]+)".*\s.*\s.*>(.*?)<]]></expres>
+<page>http://dramanices.com/load-episode.html?id=7733&amp;str=song-ji-hyos-beauty-view</page>
+<referer>http://dramanices.com/drama/song-ji-hyos-beauty-view-detail</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+ 
+<regex>
+<name>source</name>
+<expres><![CDATA[<iframe.src="([^"]+)"]]></expres>
+<page>http://dramanices.com/[makelist.param1]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+ 
+<regex>
+ <name>url</name>
+ <expres><![CDATA[.*<source.src='(.*?)'.type='video\/mp4'.label=['720'|'480'|'360']]]></expres>
+ <page>$doregex[source]</page>
+</regex>
+
+<regex>
+<name>createCFCookie</name>
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://dramanices.com/drama/song-ji-hyos-beauty-view-detail',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')</page>
+<cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>[COLOR lime][B]Goblin[/B][/COLOR]</title>
+<link>$doregex[makelist]|Cookie=$get_cookies$&amp;Referer=http://dramanices.com/&amp;User-Agent: iPhone</link>
+<thumbnail>http://images.dramacool.to/cover/goblin.jpg<thumbnail> 
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lime]Goblin [/COLOR][COLOR dodgerblue] ([makelist.param2])[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://images.dramacool.to/cover/goblin.jpg<thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/([^"]+)".*\s.*\s.*>(.*?)<]]></expres>
+<page>http://dramanices.com/load-episode.html?id=7443&amp;str=goblin</page>
+<referer>http://dramanices.com/drama/goblin-detail</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+ 
+<regex>
+<name>source</name>
+<expres><![CDATA[<iframe.src="([^"]+)"]]></expres>
+<page>http://dramanices.com/[makelist.param1]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+ 
+<regex>
+ <name>url</name>
+ <expres><![CDATA[.*<source.src='(.*?)'.type='video\/mp4'.label=['720'|'480'|'360']]]></expres>
+ <page>$doregex[source]</page>
+</regex>
+
+<regex>
+<name>createCFCookie</name>
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://dramanices.com/drama/goblin-detail',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')</page>
+<cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>[COLOR lime][B]Seven First Kisses[/B][/COLOR]</title>
+<link>$doregex[makelist]|Cookie=$get_cookies$&amp;Referer=http://dramanices.com/&amp;User-Agent: iPhone</link>
+<thumbnail>http://images.dramacool.to/cover/seven-first-kisses.jpg<thumbnail> 
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lime]Seven First Kisses [/COLOR][COLOR dodgerblue] ([makelist.param2])[/COLOR]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://images.dramacool.to/cover/seven-first-kisses.jpg<thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/([^"]+)".*\s.*\s.*>(.*?)<]]></expres>
+<page>http://dramanices.com/load-episode.html?id=7453&amp;str=seven-first-kisses</page>
+<referer>http://dramanices.com/drama/seven-first-kisses-detail</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+ 
+<regex>
+<name>source</name>
+<expres><![CDATA[<iframe.src="([^"]+)"]]></expres>
+<page>http://dramanices.com/[makelist.param1]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+ 
+<regex>
+ <name>url</name>
+ <expres><![CDATA[.*<source.src='(.*?)'.type='video\/mp4'.label=['720'|'480'|'360']]]></expres>
+ <page>$doregex[source]</page>
+</regex>
+
+<regex>
+<name>createCFCookie</name>
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://dramanices.com/drama/seven-first-kisses-detail',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')</page>
+<cookieJar></cookieJar>http://thevideos.tv/embed-ocgakolav5o0.html</regex>
+<referer>http://woaikanxi.net/masteroftheshadowlesskickwongkeiying/</referer>
+
+</regex>
+
+</item>
+
+<item>
+  <title>Master Of The Shadowless Kick Wong Kei Ying</title>
+  <link>$doregex[url]</link>
+  <thumbnail>http://89.45.10.106/i/01/00108/ocgakolav5o0.jpg</thumbnail>
+  <regex>
+    <name>url</name>
+    <expres>file:"([^"]+)",label:"720p"</expres>
+    <page>http://thevideos.tv/embed-ocgakolav5o0.html</page>
+    <referer>http://woaikanxi.net/masteroftheshadowlesskickwongkeiying/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+
+<item>
+  <title>Master Of The Drunken Fist Beggar So</title>
+  <link>$doregex[url]</link>
+  <thumbnail>http://woaikanxi.net/wp-content/uploads/2017/01/Master_of_the_Drunken_Fist_Beggar_So_2016.jpg</thumbnail>
+  <regex>
+    <name>url</name>
+    <expres>file:"([^"]+)",label:"720p"</expres>
+    <page>http://thevideos.tv/embed-viwcoynjx6sa.html</page>
+    <referer>http://woaikanxi.net/master-of-the-drunken-fist-beggar-so-2016/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>The Mobfathers (2016)</title>
+  <link>$doregex[url]</link>
+  <thumbnail>http://woaikanxi.net/wp-content/uploads/2016/07/The_Mobfathers_2016.jpg</thumbnail>
+  <regex>
+    <name>url</name>
+    <expres>file:"([^"]+)",label:"720p"</expres>
+    <page>http://thevideos.tv/embed-xec52g3hhgrn-900x500.html</page>
+    <referer>http://woaikanxi.net/the-mobfathers-2016/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>Nightfall (2012)</title>
+  <link>plugin://plugin.video.youtube/play/?video_id=iq9pX_bdGvY</link>
+  <thumbnail>http://woaikanxi.net/wp-content/uploads/2014/08/Nightfall.jpg</thumbnail>
+</item>
+
+<item>
+  <title>Rigor Mortis (2013)</title>
+  <link>$doregex[url]</link>
+  <thumbnail>http://woaikanxi.net/wp-content/uploads/2014/02/RigorMortis.jpg</thumbnail>
+  <regex>
+    <name>url</name>
+    <expres>file:"([^"]+)",label:"720p"</expres>
+    <page>http://thevideos.tv/embed-so38r4q8pl8y.html</page>
+    <referer>http://woaikanxi.net/rigor-mortis-2013/</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+    <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>Passengers 2016 1080p</title>
+  <urlsolve>https://openload.co/embed/DfedHY6T_QM/</urlsolve>
+  <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4MjU3MDIzOF5BMl5BanBnXkFtZTgwMjM2MzY2MDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+</item>
+
+
+
+<item>
+  <title>Maharajalawak 2017 M2</title>
+  <link>https://video.xx.fbcdn.net/v/t42.9040-2/10000000_1243804122398532_201843375349956608_n.mp4?efg=eyJybHIiOjE2NTQsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&amp;rl=1654&amp;vabr=1103&amp;oh=0e0edd66e76e94808b765df5f5771540&amp;oe=58B5390E</link>
+  <thumbnail>https://3.bp.blogspot.com/-OpFn0kRoPjs/WKbpc1XmBpI/AAAAAAAANIM/Q6hWdfLaNGwHorNKf48ODUKnOXxmSYHigCLcB/s640/Peserta-Maharaja-Lawak-Mega-2017-Astro-MLM.jpg</thumbnail>
+</item>
+
