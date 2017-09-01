@@ -156,7 +156,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
    </extension>
 </addon>
 
-<addon id="script.module.urlresolver" name="URLResolver" version="3.0.35" provider-name="tvaddons.ag, Eldorado">
+<addon id="script.module.urlresolver" name="URLResolver" version="4.0.02" provider-name="Eldorado, tknorris, jsergio">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" optional="true" />
