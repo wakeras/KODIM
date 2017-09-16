@@ -310,7 +310,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 
 <addon id="plugin.video.kodim"
        name="KODIM"
-       version="3.0.5"
+       version="3.0.6"
        provider-name="KODIM - Ares-Project">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
