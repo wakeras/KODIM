@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.kodim" version="2017.07.5" name="KODIM repository" provider-name="KODIM">
+<addon id="repository.kodim" version="2017.09.16" name="KODIM repository" provider-name="KODIM">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 	</requires>
@@ -9,6 +9,15 @@
 			<checksum>https://raw.githubusercontent.com/wakeras/KODIM/master/kodirepo/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/wakeras/KODIM/master/kodirepo/</datadir>
 		</dir>
+	    <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/</datadir>
+	    </dir>
+		    <info compressed="false">https://raw.githubusercontent.com/ares-fortress/repo/master/addons.xml</info>
+		    <checksum>https://raw.githubusercontent.com/ares-fortress/repo/master/addons.xml.md5</checksum>
+		    <datadir zip="true">https://raw.githubusercontent.com/ares-fortress/repo/master/</datadir>
+        </dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">KODIM repository</summary>
