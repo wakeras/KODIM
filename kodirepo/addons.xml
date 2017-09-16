@@ -217,12 +217,9 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     </extension>
 </addon>
 
-<addon id="repository.kodim" version="2017.09.16" name="KODIM repository" provider-name="KODIM">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0" />
-	</requires>
+<addon id="repository.kodim" version="2017.09.16" name="[COLOR blue]K[/COLOR][COLOR white]ODIM repository[/COLOR]" provider-name="KODIM">
 	<extension point="xbmc.addon.repository" name="KODIM repository">
-		<dir minversion="14.0.0">
+		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/wakeras/KODIM/master/kodirepo/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/wakeras/KODIM/master/kodirepo/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/wakeras/KODIM/master/kodirepo/</datadir>
@@ -231,11 +228,12 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
             <info compressed="false">https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/</datadir>
-	    </dir>
+        </dir>	    
+        <dir>
 		    <info compressed="false">https://raw.githubusercontent.com/ares-fortress/repo/master/addons.xml</info>
 		    <checksum>https://raw.githubusercontent.com/ares-fortress/repo/master/addons.xml.md5</checksum>
 		    <datadir zip="true">https://raw.githubusercontent.com/ares-fortress/repo/master/</datadir>
-        </dir>
+        </dir>        
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">KODIM repository</summary>
