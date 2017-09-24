@@ -339,10 +339,10 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </extension>
 </addon>
 
-<addon id="script.module.addon.common"
-	     name="Common addon methods"
-	     version="2.0.1"
-	     provider-name="Eldorado (original: t0mm0)">
+<addon id="script.module.addon.common" 
+	     name="Common addon methods" 
+	     version="2.0.1.1" 
+	     provider-name="KODIM (original:Eldorado) (original: t0mm0)">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
   </requires>
@@ -358,7 +358,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <forum></forum>
     <website></website>
     <email></email>
-    <source></source>
+    <source></source>  
   </extension>
 </addon>
 
