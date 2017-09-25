@@ -1,0 +1,30 @@
+[COLOR FF00FFFF]NOTE: Please visit [COLOR orange]https://ares-project.uk[/COLOR] for support and assistance.[/COLOR]
+
+[COLOR yellow][B]2.0.6[/B]
+----------------------------
+- Fix addon error[/COLOR]
+
+2.0.5
+----------------------------
+- Add more source
+
+2.0.2
+----------------------------
+- Revert back source
+
+2.0.1
+----------------------------
+- Change source
+
+2.0.0
+----------------------------
+- Fix incorrect movie list
+- More stream selection 
+- Add changelog prompt when addon updated
+- Added playback resume from last stopped
+- Code cleanup
+
+1.0.0
+----------------------------
+- Initial release
+- License GPL Version 2
