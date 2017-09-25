@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.dramanice"
+	   name="Dramanice"
+	   version="3.1"
+	   provider-name="2uk3y-Kodim-Ares-Streams">
+  <requires>
+    <import addon="script.module.requests" version="1.0.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+			 library="default.py">
+    	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Sit Back &amp; Relax</summary>
+    <description>Watch TV Drama/Movie from Dramanice.eu</description>
+    <description lang="en">Watch Your Favorite Korean Movies &amp; TV Shows Online From Dramanice.eu.
+Please visit [COLOR orange]https://ares-project.uk[/COLOR] for support and assistance.</description>
+    <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  </extension>
+</addon>
