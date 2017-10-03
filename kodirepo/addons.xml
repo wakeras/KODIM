@@ -364,9 +364,9 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 
 <addon
   id="plugin.video.SportsDevil"
-  version="2017.06.30.NL"
+  version="2017.10.02"
   name="SportsDevil"
-  provider-name="MaxMustermann, Al101, Hubbab3, Jairox, Sattekop">
+  provider-name="SportsDevil">
   <requires>
    <import addon="xbmc.python" version="2.14.0"/>
    <import addon="script.module.dateutil" />
@@ -374,10 +374,10 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
    <import addon="script.module.six" />
    <import addon="script.module.requests" />
    <import addon="script.module.livestreamer" />
-   <!--<import addon="script.video.F4mProxy" />
-   <import addon="plugin.video.f4mTester" />-->
+   <!-- <import addon="script.video.F4mProxy" /> -->
+   <!-- <import addon="plugin.video.f4mTester" /> -->
   </requires>
-  <extension
+  <extension 
     point="xbmc.python.pluginsource"
     library="default.py">
    <provides>video</provides>
@@ -386,9 +386,9 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   <extension point="xbmc.addon.metadata">
     <summary>Play videos of different ad-financed sports streaming sites</summary>
     <description>Play videos of different ad-financed sports streaming sites.
-
+        KODIM FIXED SOMETHING
 SportsDevil does not provide any streams of its own; stream quality, content and copyright are responsibility of the ad-financed source web site.
-
+    
 For updates check the readme.
     </description>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
