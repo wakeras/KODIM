@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.layanon9"
 	   name="LayanOn9"
-	   version="2.0"
+	   version="2.1"
 	   provider-name="2uk3y-Kodim-Ares-Streams">
   <extension point="xbmc.python.pluginsource"
 			 library="default.py">
     	<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Watch TV Drama/Movie from layanon9.net</summary>
-    <description>Watch TV Drama/Movie from LayanOn9</description>
+    <summary>Watch TV Drama/Movie from LayanOn9 site</summary>
+    <description>Watch TV Drama/Movie from LayanOn9 site</description>
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
   </extension>
