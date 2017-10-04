@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.citerkita"
 	   name="[COLOR blue]Citer[/COLOR][COLOR white]Kita[/COLOR]"
-	   version="2.1.0"
+	   version="2.1.3"
 	   provider-name="2uk3y-Kodim-Ares-Streams">
   <requires>
     <import addon="script.module.requests" version="1.0.0" />
