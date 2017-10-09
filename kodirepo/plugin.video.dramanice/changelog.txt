@@ -1,6 +1,10 @@
 Version:
 
-[COLOR yellow][B]20170925 : 3.1[/B] 
+[COLOR yellow][B]20170925 : 3.2[/B] 
+-------------------------------
+- Fix error here and there[/COLOR]
+
+20170925 : 3.1 
 -------------------------------
 - Fix multiple source error
 - popup menu for multi source
