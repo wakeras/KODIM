@@ -1,0 +1,152 @@
+Version 2.7.2
+
+Updated To LivestreamPro 2.7.0
+(Big Thanks To Shani)
+youtube in playone
+playlist issue
+vipracing fix
+support for $$HLSRETRY$$
+unicode in title for playlist
+pyfunction in thumbnail
+now in LSPlayOnlyOne ignores the settings and group links in one
+now in listrepeat you have [regename.cookies]
+Added pyaesnew for more support of different block methods and padding.
+support for multiple link one play $$LSPlayOnlyOne$$ (small bug)
+support for multiple link one play $$LSPlayOnlyOne$$
+lsname without regex
+info and others tags supported in normal items
+$$lsname with regex fix
+lspro path issue
+bugfix in cloudflare function
+support for websocket
+support of headers in page and other places with two ==
+support of headers in externallink using |
+unicode support in pyfunction,and logging fix by gujal
+sucuri support, session/cookie correction
+sucuri support
+regex in external
+removed uploaded.net from urlresolver
+removed uploaded.net from urlresolver
+Support for Python function in listrepeat regex
+Added support for liveresolver
+bug fixed in playlist in dialogue mode in mix regex and unregex mode
+Name for multiple links
+disabled check for naughty builds online
+check for naughty builds online
+check for naughty builds
+small error in blank page
+aa decoder, little fix and notplayable to use for not showing the dialogue
+error while page regex will make it nonblank
+decode gzip page
+unicode urls in image
+unicode urls in image
+added livestreams script addons
+single dimension repeat bug
+play command
+double escape bug in listrepeat
+support for encrypted xml/m3u8
+Urlresolver, removed docs.google and added escape to listrepeat items
+proxy username/pwd , thansks to jairox@tva
+aadecoder fix
+Support of $$TSDOWNLOADER$$ parameter in m3u url, if present, the .ts enteries will be executed with f4mtester.
+improved unicode error trapping
+improved unicode error trapping
+improved unicode error trapping
+improved aaencode decoding
+support for cryptojs (ilikehd.com) with salt based decryption
+support for cryptojs (moje-filmy.tk) and viewmode
+support for AADecoder (japanese/emoticon encoding)
+return NOTPACKED or UNPACKEDFAILED when the html is not having p.a.c.k.e.d section or it fails
+bug grr
+support for calling from other addon, pass ?playitem=encodeditem
+support for TV5 decoding
+makelist bug
+better unicode support in repeat list
+recaptcha improved
+language support in recaptcha
+support google uncaptcha recaptcha with user input
+vipracing to return "" if playpath is ""
+Bug fix in listrepeat for single items for link
+Bug fix in listrepeat for single items for link
+googleReCaptcha function implemented
+Bug fix in listrepeat for single items. also now param0 is available which will be row number
+updated unpacked function to split on ABC as well as packed
+Ignore error in list creation
+Parental block
+Parental block
+list func bug
+revised list functionality in regex
+revised list functionality in regex
+support for list functionality in regex
+removed unused imports
+support for x-addr and RijndaelManaged encryption
+support for proxy using <proxy> tag and $PLAYERPROXY$=IPAddress:Port
+oneplay updated
+bugfix m3u parsing
+bugfix duplicate entry
+bugfix
+All changes by alibaba
+oneplay decryption function
+resolver rearranged
+functions support in LSPro xml file
+one mistake in oneplay
+Oneplay decryption! only for NOOB :D
+Rolled back changes in 1.7.2 is back on, thanks alibaba!
+fixed captchanew function and support accept there
+added accept param for regex
+support for new captcha function
+now includeheaders include all the headers.
+Bug fixes
+Bug fixes
+icon change and other details
+Thanks to Alibaba, updated the multi playlist settings for regex etc
+Thanks to Alibaba, updated the multi playlist settings as well sync with Lambda settings
+NOTPlayable option in item
+NOTPlayable option in item
+Cloudflare wait 4 seconds
+CF pass value with quoteplus
+CF pass value
+fix the release issue
+support for noredirect tag in regex to stop the redirect
+Thanks to alibaba@tvaddons, added f4m,youtube and ftv tags etc.
+added param for referer in vip racing
+fix iphonetv and sample to use it
+added daramas online addon in ignore setsolved list
+added zemtv addon in ignore setsolved list, thanks to gujal and alibaba, a quick fix in iphonetv_url function
+minor change in vipracing for ilive
+added a function to parse ads in hls m38 file ferrari
+Fixed accented char issue in m3u8 parsing
+Thanks to Alibaba, added daily motion search ,pulsar and many more 
+Thanks to Alibaba, added download support and fix url resolver issue with helix, plus many more
+bug fix, Channels could contain multiple item which could have each externallink
+Alibaba changes, bug fix
+Alibaba changes, support for m3u file,urlresolver and youtube-dl 
+support appendCookie
+support regex in setCookie
+Support SaveToFile and LoadFile function
+support for clourdflare
+support for wat.tv token generation
+support iguide too
+little improvment so that one you call vipracing function to decrypt ilive and others
+Change to support the calls to Vaughnlive,ilive,p2p, and sportsdevil. Thanks to alibbaba@tvaddon.ag
+vipracing function, support for option pages
+epoctime2 in page tag and vipracing function
+epoctime in page tag
+enable ignorecache
+fix to ignore if regex fails
+bug fixed for externallink
+Added get_packed_iphonetv_url
+improved Dag function, now it support to recive the dag url directly
+Support for x-forward
+Support for vaughlive
+Support for f4m via regex.
+Support for playtv.fr: Pass channelid to the function get_url
+<expres>$pyFunction:playtvfr.get_url('$doregex[getplayerid]')</expres>
+Bug fix
+Support for playmedia
+Added get_saw_rtmp and get_leton_rtmp support
+Support for decrypting wise function, also DAG url player
+Support for retry for ustream links, now new function is available
+Corrected the copy paste problem lol
+Cloned from divingmules and added all my changes
+update for XBMC Gotham compatibility
