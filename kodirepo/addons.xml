@@ -527,4 +527,32 @@ Please visit [COLOR orange]https://ares-project.uk[/COLOR] for support and assis
 	<platform>all</platform>
   </extension>
 </addon>
+<addon id="plugin.video.streama" version="0.0.1" name="Streama" provider-name="HackerspaceBielefeld">
+    <requires>
+      <import addon="xbmc.python" version="2.24.0"/>
+      <import addon="script.module.simplejson" version="3.3.0"/>
+      <import addon="script.module.requests" version="2.3.0"/>
+      <import addon="script.module.routing" version="0.2.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Host your own Streaming Application with your media library. Use this plugin to acces it from Kodi.</summary>
+        <description lang="en_GB">Ever had a huge bookshelf full of shows and movies? Ever wanted to digitalize them, but didn't have a good way of organizing the files? Worry no more! Streama is your own personal Netflx for just such a purpose!
+        </description>
+        <platform>all</platform>
+        <license>MIT</license>
+        <source>https://github.com/HackerspaceBielefeld/plugin.video.streama</source>
+        <website>http://github.com/HackerspaceBielefeld/plugin.video.streama</website>
+        <forum>https://forum.kodi.tv/showthread.php?tid=320484</forum>
+        <news></news>
+        <assets>
+            <icon>resources/media/icon.png</icon>
+            <fanart>resources/media/fanart.png</fanart>
+            <screenshot>resources/media/screenshot01.png</screenshot>
+            <screenshot>resources/media/screenshot02.png</screenshot>
+        </assets>
+    </extension>
+</addon>
 </addons>
